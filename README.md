@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Karolina</h1>
 
-- 🎓 I'm a **Computer Science student** at **AGH UST**  
+- 🎓 I'm a Computer Science student at AGH University of Krakow 
 
-- 💻 Interested in real problems solving and advanced algorithms
+- 💻 Passionate about solving real-world problems and exploring advanced algorithms
 
-- 🏃‍♂️ Passionate about running and high mountain trekking
+- 🏃‍♂️ Enthusiast of running and mountain trekking
 
 - 📫 How to reach me: karolina.nitsch@gmail.com
 
