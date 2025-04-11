@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Karolina
+<h1 align="center">Hi 👋, I'm Karolina</h1>
 
-🎓 I'm a **Computer Science student** at **AGH UST**  
+- 🎓 I'm a **Computer Science student** at **AGH UST**  
 
-💻 Interested in real problems solving and advanced algorithms
+- 💻 Interested in real problems solving and advanced algorithms
 
-🏃‍♂️ Passionate about running and high mountain trekking
+- 🏃‍♂️ Passionate about running and high mountain trekking
 
-📫 How to reach me: karolina.nitsch@gmail.com
+- 📫 How to reach me: karolina.nitsch@gmail.com
 
 
 ### 🛠️ Technologies & Tools
